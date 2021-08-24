@@ -35,9 +35,9 @@ body {
     grid-gap: 20px;
     grid-auto-rows: minmax(50px, auto);
   }
-.wrapper>div {
+/* .wrapper>div {
     border: 2px solid red;
-}
+} */
 
 .Wrapper>div {
     display: flex;
