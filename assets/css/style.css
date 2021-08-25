@@ -70,7 +70,7 @@ a::before, a::after {
 }
 
 a:nth-child(1)::before, a:nth-child(1)::after {
-    background: linear-gradient(45deg,#00ccff,#0e1538,#d400d4);
+    background: linear-gradient(45deg,#ff0000,#0e1538,#0e00d4);
 }
 
 a:hover:before {
